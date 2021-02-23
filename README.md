@@ -60,7 +60,7 @@ go to go/qlist and enter the list you wanna join. <br />
 # Linux basic course 
 https://learning.oreilly.com/videos/linux-fundamentals/9780135560396
 
-# Support: go/Oneit 
+# Support: go/OneIT
 If you get stuck at any point contact the support team with this link. Or search for relevant article in search box. <br />
 Call : 0008001004038 <br />
 Online chat : go/oneIT --> chat --> Click on new request if you have not raised any request yet otherwise click on the already raised ticket and chat online <br />
