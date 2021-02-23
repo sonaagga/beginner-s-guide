@@ -2,11 +2,11 @@
 
 List of trainings that need to be completed after joining: <br />
 •	"COVID-19: Awareness Training". 
-o	https://learning.qualcomm.com/course/view.php?id=25758
+   -https://learning.qualcomm.com/course/view.php?id=25758
 •	"Export Compliance ENGINEERING and Program Management".
-o	https://learning.qualcomm.com/course/view.php?id=25078
+   -https://learning.qualcomm.com/course/view.php?id=25078
 •	Complete Mandatory Cybersecurity.
-o	https://learning.qualcomm.com/course/view.php?id=24868
+  -https://learning.qualcomm.com/course/view.php?id=24868
 •	Code of Business Conduct 2020 Training and Certification.
 o	https://learning.qualcomm.com/course/view.php?id=25690
 •	Prevention of Sexual Harassment (India).
