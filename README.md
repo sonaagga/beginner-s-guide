@@ -1,6 +1,6 @@
 # beginner-s-guide
 
-List of trainings that need to be completed after joining:
+List of trainings that need to be completed after joining: <br />
 •	"COVID-19: Awareness Training". 
 o	https://learning.qualcomm.com/course/view.php?id=25758
 •	"Export Compliance ENGINEERING and Program Management".
