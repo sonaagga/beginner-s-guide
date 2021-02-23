@@ -1,20 +1,20 @@
 # beginner-s-guide
 
 List of trainings that need to be completed after joining: <br />
-•	"COVID-19: Awareness Training". 
-   -https://learning.qualcomm.com/course/view.php?id=25758
-•	"Export Compliance ENGINEERING and Program Management".
-   -https://learning.qualcomm.com/course/view.php?id=25078
-•	Complete Mandatory Cybersecurity.
-  -https://learning.qualcomm.com/course/view.php?id=24868
-•	Code of Business Conduct 2020 Training and Certification.
-o	https://learning.qualcomm.com/course/view.php?id=25690
-•	Prevention of Sexual Harassment (India).
-o	https://learning.qualcomm.com/course/view.php?id=25120
-•	"New Hire Safety Orientation".
-o	https://learning.qualcomm.com/course/view.php?id=628
-•	Company confidential information (CCI).
-o	https://learning.qualcomm.com/course/view.php?id=18724
+•	"COVID-19: Awareness Training".  <br />
+   -https://learning.qualcomm.com/course/view.php?id=25758 <br />
+•	"Export Compliance ENGINEERING and Program Management". <br />
+   -https://learning.qualcomm.com/course/view.php?id=25078 <br />
+•	Complete Mandatory Cybersecurity. <br />
+  -https://learning.qualcomm.com/course/view.php?id=24868  <br />
+•	Code of Business Conduct 2020 Training and Certification. <br />
+  -https://learning.qualcomm.com/course/view.php?id=25690 <br />
+•	Prevention of Sexual Harassment (India). <br />
+   -https://learning.qualcomm.com/course/view.php?id=25120  <br />
+•	"New Hire Safety Orientation". <br />
+   -https://learning.qualcomm.com/course/view.php?id=628 <br />
+•	Company confidential information (CCI). <br />
+   -https://learning.qualcomm.com/course/view.php?id=18724 <br />
 
 Support: go/Oneit
 If you get stuck at any point contact the support team with this link. Or search for relevant article in search box.
