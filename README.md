@@ -34,7 +34,7 @@ Complete Trustzone course: https://learning.qualcomm.com/course/view.php?id=2379
 Submit the survey available in the link: go/tzaccess. 
 After completing the survey drop a mail Request for approval to Srujana Yedulapuram <srujana@qti.qualcomm.com> .
 
-# Lost :- #
+# Lost :- 
 https://learning.qualcomm.com/course/view.php?id=15172
 
 
@@ -50,14 +50,14 @@ Request for Harvester: https://qualcomm.service-now.com/sp?id=kb_article_view&sy
 # Request for SUDO permissions on 
 http://go/sudoflag
 
-# Enroll to below groups from list:#
+# Enroll to below groups from list:
 go to go/qlist and enter the list you wanna join.
 •	“india_users.mail”
 •	“sweng-login”
 •	“l4linux.samba” 
 •	“asw.samba.desktop”
 
-# Linux basic course:- #
+# Linux basic course:- 
 https://learning.oreilly.com/videos/linux-fundamentals/9780135560396
 
 
@@ -71,5 +71,9 @@ go/qpeople and type your username/name
 
 
 # Fill Qtime
+Ask your manager/lead about the charge type, charge code and task. <br />
+In all the working days , fill 8hrs as your working hours and then submit the timecard. (color should turn into green on succesful submission)
 
+# How to check the holidays
+go/qtime -->
 
