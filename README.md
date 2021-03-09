@@ -65,6 +65,10 @@ If you get stuck at any point contact the support team with this link. Or search
 Call : 0008001004038 <br />
 Online chat : go/oneIT --> chat --> Click on new request if you have not raised any request yet otherwise click on the already raised ticket and chat online <br />
 
+# Code collaborator
+Follow the steps listed here:-
+https://qualcomm.service-now.com/sp?id=kb_article_view&sys_id=420b04861b8690980759ea0abc4bcbcf
+
 # Know About yourself
 go/qpeople and type your username/name
 
