@@ -36,6 +36,8 @@ After completing the survey drop a mail Request for approval to Srujana Yedulapu
 
 # Lost 
 https://learning.qualcomm.com/course/view.php?id=15172 <br />
+after this if you have QUIC in your dept you will get both quicinc and CAF email id. you will be added to quic.lost_trained_AF
+Otherwise you will be added to quic.lost_trained_qcom and also you need to join QuIC_CAF_OS_Enabled_SecureSystems.
 
 
 # GUMA 
