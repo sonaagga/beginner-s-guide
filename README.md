@@ -39,6 +39,15 @@ https://learning.qualcomm.com/course/view.php?id=15172 <br />
 after this if you have QUIC in your dept you will get both quicinc and CAF email id. you will be added to quic.lost_trained_AF
 Otherwise you will be added to quic.lost_trained_qcom and also you need to join QuIC_CAF_OS_Enabled_SecureSystems.
 
+So there are 2 options 
+first one is ask your manager to change your dept name and once it gets changed you can mail LOST.training_overhead and they'll provide you both the emailids within 24hrs.
+
+Second opn is get yourself enrolled in *quic_caf_os_enabled group which is related to your team and then you can inform LOST.training_overhead and they will provide you CAF email id.
+
+ 
+
+For faster response you can ping : Bairaiah Venkatreddygari (Bairareddy)
+
 
 # GUMA 
 Check: Go/guma. Enroll the access control groups to get access. <br />
