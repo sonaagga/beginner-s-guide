@@ -88,3 +88,5 @@ go/qpeople and type your username/name
 Ask your manager/lead about the charge type, charge code and task. <br />
 In all the working days , fill 8hrs as your working hours and then submit the timecard. (color should turn into green on succesful submission)
 
+# Visit go/leveling to review the leveling and competency rating guides.
+
