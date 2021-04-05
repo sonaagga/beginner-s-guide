@@ -59,7 +59,7 @@ Check: Go/guma. Enroll the access control groups to get access. <br />
 Request for Harvester: https://qualcomm.service-now.com/sp?id=kb_article_view&sys_id=4c0a29411b8398142015db15ec4bcb79 
 
 # Request for SUDO permissions on 
-http://go/sudoflag
+Please ask the user to submit a request via http://go/sudoflag which should be approved by their manager in 30 mins.
 
 # Enroll to below groups from list 
 go to go/qlist and enter the list you wanna join. <br />
