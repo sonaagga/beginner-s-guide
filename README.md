@@ -32,6 +32,8 @@ Support link: go/perforcesupport.
 For trustzone access: Enroll group “area.core.subsystem.security.coder2” <br />
 Complete Trustzone course: https://learning.qualcomm.com/course/view.php?id=23799 <br />
 Submit the survey available in the link: go/tzaccess. <br />
+
+
 After completing the survey drop a mail Request for approval to Srujana Yedulapuram <srujana@qti.qualcomm.com> .<br />
 
 # Lost 
@@ -90,3 +92,5 @@ In all the working days , fill 8hrs as your working hours and then submit the ti
 
 # Visit go/leveling to review the leveling and competency rating guides.
 
+# Code vetting link
+https://jira-quic.qualcomm.com/jira/secure/CreateIssue.jspa?pid=10524&issuetype=13
