@@ -94,3 +94,5 @@ In all the working days , fill 8hrs as your working hours and then submit the ti
 
 # Code vetting link
 https://jira-quic.qualcomm.com/jira/secure/CreateIssue.jspa?pid=10524&issuetype=13
+sample : https://jira-quic.qualcomm.com/jira/browse/QUICLOST-424886
+target SM8450 is waipio
