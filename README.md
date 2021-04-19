@@ -1,6 +1,6 @@
 # beginner's-guide
 
-# List of trainings that need to be completed after joining<br /> 
+# List of trainings that needs to be completed after joining<br /> 
 (Or you can go to go/learnit --> my Corner --> my learning plan --> To Do courses)  <br /> <br />
 •	"COVID-19: Awareness Training".  <br />
    -https://learning.qualcomm.com/course/view.php?id=25758 <br />
